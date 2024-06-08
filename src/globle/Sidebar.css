@@ -1,0 +1,23 @@
+.sidebar {
+  background-color: #3F005F;
+  color: white;
+  height: 100%;
+  padding: 20px;
+}
+
+.sidebar h2 {
+  color: white;
+}
+
+.sidebar ul {
+  padding: 0px;
+}
+
+.sidebar li {
+  margin: auto;
+  color: white;
+  cursor: pointer;
+  justify-content: center;
+  padding: 40px 0 0 30px;
+}
+

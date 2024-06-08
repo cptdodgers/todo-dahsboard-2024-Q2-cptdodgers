@@ -1,0 +1,32 @@
+.task-list {
+    background-color: #fff;
+    padding: 20px;
+    border-radius: 8px;
+}
+
+.task-list h3 {
+    margin-bottom: 20px;
+}
+
+.task-list th, .task-list td {
+    padding: 10px;
+    text-align: left;
+}
+
+.task-list table {
+    margin: 20px;
+}
+
+.task-list tr:nth-child(event) {
+    background-color: #f9f9f9;
+}
+
+.task-list th {
+    background-color: #f1f1f1;
+}
+
+.pagination-container {
+    display: flex;
+    justify-content: center;
+    margin-top: 20px;
+}
